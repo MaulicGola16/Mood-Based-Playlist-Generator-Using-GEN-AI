@@ -1,2 +1,2 @@
 # Mood-Based-Playlist-Generator-Using-GEN-AI
-This is a Mood Based Playlist Generator Using GEN AI using IBM Watsonx
+This is a Mood Based Playlist Generator Using GEN AI - IBM Watsonx
